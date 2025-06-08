@@ -8,7 +8,7 @@ A beautifully crafted, heartwarming and interactive webpage to celebrate **Best 
 
 ## 💖 Live Demo
 
-👉 [View it Live](https://sona772004.github.io/Bestfriend-day-wish-to-your-Bestie/)
+👉 [View it Live](https://6845adc6e6ebb07949d4f0d1--chipper-cat-dc682b.netlify.app//)
 
 ---
 
