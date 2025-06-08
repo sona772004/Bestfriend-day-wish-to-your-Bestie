@@ -26,4 +26,13 @@ A beautifully crafted, heartwarming and interactive webpage to celebrate **Best 
 ---
 
 ## 🗂️ Project Structure
+├── index.html # Main HTML page
+├── style.css # All the styles
+├── script.js # All the interactivity and animations
+├── music/
+│ └── tu-hai-toh-main-hoon.mp3 # Background music
+└── images/
+├── photo1.jpg
+├── photo2.jpg
+└── ... # Your personal photos
 
